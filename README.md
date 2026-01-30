@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩🏻‍💻 Jéssica Pasqualini
 
-<!--
-**jessicapasqualini/jessicapasqualini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvimento de Software | Aprendizado contínuo**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Sobre mim
+
+Estou em transição de carreira para a área de tecnologia e curso **Sistemas de Informação**. Aqui organizo meus estudos em programação por meio de exercícios de lógica e projetos.
+
+Tenho interesse em oportunidades de posições iniciais, onde eu possa aprender na prática e evoluir gradualmente.
+
+---
+
+### 🤖 Linguagem e Tecnologia
+<div style="display: inline">
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
+
+---
+
+### 🛠️ Ferramenta
+<div style="display: inline">
+    <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+</div>
